@@ -2,6 +2,8 @@
 
 ### 🔗 Live Demo  
 Check out the deployed Fake News Classifier [here](https://fake-news-classifier-4-qug4.onrender.com/)
+![Uploading image.png…]()
+
 
 
 🧠 Fake News Classifier
